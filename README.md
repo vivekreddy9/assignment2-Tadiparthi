@@ -12,3 +12,8 @@ Chicken biryani is a dish that has been **originatred from hyderabad**. It is ri
     1. Click on the thumbnail to edit the screenshot.
     2. Or else wait for the screenshot to save on your desktop.
 5. Then the screenshot will be saved on your desktop.
+
+- Mac
+- Mac  operating system X
+- 8gb RAM
+- 256gb memory
