@@ -19,3 +19,14 @@ Chicken biryani is a dish that has been **originatred from hyderabad**. It is ri
 - 256gb memory
 
 **[AboutMe](AboutMe.md)**
+
+---
+# Recommended places
+This table contains recommended place one should visit in India.
+
+|Location |Hours |Price |
+|---|---|---:|
+|Chennai| 48| $200|
+|Hyderabad| 72| $250|
+|Mumbai| 24| $150|
+|Delhi| 72| $300|
