@@ -30,3 +30,11 @@ This table contains recommended place one should visit in India.
 |Hyderabad| 72| $250|
 |Mumbai| 24| $150|
 |Delhi| 72| $300|
+
+---
+# Inspirational Quotes
+>“Your time is limited, so don’t waste it living someone else’s life.”<br>
+― *Steve Jobs*
+
+>Don’t let the noise of others’ opinions drown out your own inner voice.”<br>
+― *Steve Jobs*
